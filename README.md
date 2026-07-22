@@ -6,7 +6,7 @@ Elsner App Development Services is a business concept I intend to genuinely purs
 
 ## Live Site
 
-[View the live site](#https://elsnerredraider.github.io/Project03_ElsnerAppDevelopment/)
+[View the live site](https://elsnerredraider.github.io/Project03_ElsnerAppDevelopment/)
 
 ## Project Documentation
 
